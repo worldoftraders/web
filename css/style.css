@@ -31,11 +31,14 @@ body {
 
 .bg-wot {
     color: #fff;
-    background-color: #0C0296;
+    background-color: #16a085;
 }
 
 a{
-    color: #0C0296;
+    color: #16a085;
+}
+a:hover{
+    color: #16a085;
 }
 /* Custom Horizontal Rule */
 
