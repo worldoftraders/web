@@ -80,3 +80,11 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+.my-fa-facebook:before {
+  content: "\f09a";
+}
+
+.my-fa-twitter:before {
+  content: "\f099";
+}
