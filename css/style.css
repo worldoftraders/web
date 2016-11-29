@@ -65,8 +65,9 @@ hr.small {
 /* Main */
 
 .main {
-    width: 600px;
+    max-width: 600px;
     margin: 0 auto;
+    padding: 10px;
 }
 
 .main h4 {
