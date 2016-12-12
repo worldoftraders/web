@@ -118,3 +118,7 @@ footer {
   content: "\f099";
 }
 
+.my-fa-reddit:before {
+  content: "\f1a1";
+}
+
