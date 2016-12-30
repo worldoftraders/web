@@ -122,3 +122,7 @@ footer {
   content: "\f1a1";
 }
 
+.my-fa-trello:before {
+  content: "\f181";
+}
+
